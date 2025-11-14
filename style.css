@@ -3,5 +3,8 @@
     margin-bottom: 0px;
     background-color: rgb(02, 01, 104);
     color:rgb(255, 255, 255);
-    display: ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
